@@ -1,0 +1,7 @@
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\bin\Debug\ListaDeExereciciosAParte.exe.config
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\bin\Debug\ListaDeExereciciosAParte.exe
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\bin\Debug\ListaDeExereciciosAParte.pdb
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\obj\Debug\ListaDeExereciciosAParte.csprojAssemblyReference.cache
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\obj\Debug\ListaDeExereciciosAParte.csproj.CoreCompileInputs.cache
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\obj\Debug\ListaDeExereciciosAParte.exe
+C:\Users\karoline.suzuki\source\repos\ListaDeExereciciosAParte\ListaDeExereciciosAParte\obj\Debug\ListaDeExereciciosAParte.pdb
